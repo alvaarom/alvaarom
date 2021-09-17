@@ -1,8 +1,8 @@
-# Hi I'm Alvaro 👋
+### Hi I'm Alvaro 👋
 
 ## _Fullstack Developer_
 
-```sh
+```ruby
 const alvaro = {
   pronouns: "he" | "him",
   languages: [Javascript, Typescript, C#, Python],
