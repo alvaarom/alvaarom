@@ -12,7 +12,7 @@ const alvaro = {
 }
 ```
 
-## Social
+## _Social_
 | Networks | Link |
 | ------ | ------ |
 | LinkedIn | [View more](https://www.linkedin.com/in/alvaro-malvestiti-aab53b137/) |
