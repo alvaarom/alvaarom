@@ -6,8 +6,8 @@
 const AlvaroMalvestiti = {
   languages: ["Javascript", "C#", "Python"],
   skills: [Git, Node.js, ReactNative, ReactJS, API REST, Jira],
-  database: [PostgreSQL, MySQL]
-  currentlyLearning: [DesignApps, AgileMethods]
+  database: [PostgreSQL, MySQL],
+  currentlyLearning: [DesignApps, AgileMethods],
 }
 ```
 
