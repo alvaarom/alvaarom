@@ -4,11 +4,10 @@
 
 ```ruby
 const AlvaroMalvestiti = {
-  pronouns: "he" | "him",
-  languages: ["Javascript", "Typescript", "C#", "Python"],
-  libraries: [React, ReactNative, Angular, TensorFlow, Keras, Numpy],
-  tools: [Expo, GitHub, Ionic, Jira],
-  currentlyLearning: [DesignApps]
+  languages: ["Javascript", "C#", "Python"],
+  skills: [Git, Node.js, ReactNative, ReactJS, API REST, Jira],
+  database: [PostgreSQL, MySQL]
+  currentlyLearning: [DesignApps, AgileMethods]
 }
 ```
 
