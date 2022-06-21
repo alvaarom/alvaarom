@@ -4,10 +4,10 @@
 
 ```ruby
 const AlvaroMalvestiti = {
-  languages: ["Javascript", "C#", "Python"],
-  skills: ["Git", "Node.js", "ReactNative", "ReactJS", "API REST", "Jira"],
-  database: ["PostgreSQL", "MySQL"],
-  currentlyLearning: ["DesignApps", "AgileMethods"],
+  languages: ["Javascript", "PHP"],
+  skills: ["ReactNative", "ReactJS", "API REST","HTML", "CSS", "SASS", "Jira", "Git"],
+  database: ["MySQL"],
+  currentlyLearning: ["FullStackDeveloper"],
 }
 ```
 
