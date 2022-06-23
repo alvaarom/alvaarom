@@ -6,7 +6,7 @@
 const AlvaroMalvestiti = {
   languages: ["Javascript", "PHP"],
   skills: ["ReactNative", "ReactJS", "API REST","HTML", "CSS", "SASS", "Jira", "Git"],
-  database: ["MySQL"],
+  database: ["MySQL", "PostgreSQL"],
   currentlyLearning: ["FullStackDeveloper"],
 }
 ```
