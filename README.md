@@ -5,7 +5,7 @@
 ```ruby
 const AlvaroMalvestiti = {
   languages: ["Javascript", "PHP"],
-  skills: ["ReactNative", "ReactJS", "API REST","HTML", "CSS", "SASS", "Jira", "Git"],
+  skills: ["NodeJS","ReactNative", "ReactJS", "API REST","HTML", "CSS", "SASS", "Jira", "Git"],
   database: ["MySQL", "PostgreSQL"],
   currentlyLearning: ["FullStackDeveloper"],
 }
