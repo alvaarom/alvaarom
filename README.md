@@ -1,17 +1,52 @@
-### Hi I'm Alvaro 👋
+### Hola!, Soy Alvaro Malvestiti 👋
 
-## _Software Developer_
+#### Desarrollador FullStack
+<p>Soy Argentino, y programos desde 2020 en diferentes lenguajes.</p>
 
-```ruby
-const AlvaroMalvestiti = {
-  languages: ["Javascript", "PHP"],
-  skills: ["Node", "React", "React Native", "Electron", "API REST","HTML", "CSS", "SASS", "Jira", "Git"],
-  database: ["MySQL", "PostgreSQL"],
-  currentlyLearning: ["FullStackDeveloper"],
-}
-```
+___
 
-## _Social_
-| Networks | Link |
-| ------ | ------ |
-| LinkedIn | [View more](https://www.linkedin.com/in/alvaromalvestiti/) |
+<p>Lenguajes:</p>
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript&logoColor=white"" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=white"" />
+</p>
+<p>Frontend:</p>
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html5&logoColor=white"" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=white"" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
+  <img alt="ReactNative" src="https://img.shields.io/badge/-React Native-45b8d8?style=plastic&logo=react&logoColor=white" />
+</p>
+<p>Backend:</p>
+<p>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-green?style=plastic&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-white?style=plastic&logo=express&logoColor=black" />
+</p>
+<p>Base de datos:</p>
+<p>
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql&logoColor=black" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?style=plastic&logo=PostgreSQL&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-gray?style=plastic&logo=SQLite&logoColor=white" />
+</p>
+<p>Herramientas:</p>
+<p>
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-red?style=plastic&logo=git&logoColor=white" />
+  <img alt="github" src="https://img.shields.io/badge/-GitHub-gray?style=plastic&logo=github&logoColor=white" />
+  <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-orange?style=plastic&logo=gitlab&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Jira-blue?style=plastic&logo=jira&logoColor=white" />
+</p>
+
+___
+
+<p>Soy un apasionado por la tecnologia y me encanta aprender :nerd_face:</>
+
+#### ¿Queres saber mas sobre mi?
+<p>
+  <a href="https://github.com/alvaarom" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?&style=plastic&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/alvaromalvestiti/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=plastic&logo=linkedin&logoColor=white" />
+  </a>
+</p>
