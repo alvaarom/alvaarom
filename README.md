@@ -1,7 +1,7 @@
 ### Hola!, Soy Alvaro Malvestiti 👋
 
 #### Desarrollador FullStack
-<p>Soy Argentino :argentina:, y programos desde 2020 en diferentes lenguajes. :computer:</p>
+<p>Soy Argentino :argentina:, y programo desde 2020 en diferentes lenguajes. :computer:</p>
 
 ___
 
