@@ -9,6 +9,7 @@ ___
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript&logoColor=white"" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=white"" />
+  <img alt="Python" src="https://img.shields.io/badge/-PHP-purple?style=plastic&logo=php&logoColor=white" />
 </p>
 <p>Frontend:</p>
 <p>
