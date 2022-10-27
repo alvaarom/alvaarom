@@ -15,6 +15,7 @@ ___
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html5&logoColor=white"" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=white"" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-pink?style=plastic&logo=sass&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/-React Native-45b8d8?style=plastic&logo=react&logoColor=white" />
 </p>
