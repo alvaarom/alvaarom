@@ -8,7 +8,6 @@ ___
 <p>Lenguajes:</p>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript&logoColor=white"" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=plastic&logo=python&logoColor=white"" />
 </p>
 <p>Frontend:</p>
 <p>
@@ -25,7 +24,6 @@ ___
 <p>Base de datos:</p>
 <p>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql&logoColor=black" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue?style=plastic&logo=PostgreSQL&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-gray?style=plastic&logo=SQLite&logoColor=white" />
 </p>
 <p>Herramientas:</p>
