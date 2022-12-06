@@ -20,6 +20,7 @@ ___
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-green?style=plastic&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-white?style=plastic&logo=express&logoColor=black" />
+  <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-white?style=plastic&logo=sequelize&logoColor=blue" />
 </p>
 <p>Base de datos:</p>
 <p>
