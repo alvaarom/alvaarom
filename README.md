@@ -30,9 +30,7 @@ ___
 <p>
   <img alt="docker" src="https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-red?style=plastic&logo=git&logoColor=white" />
-  <img alt="github" src="https://img.shields.io/badge/-GitHub-gray?style=plastic&logo=github&logoColor=white" />
-  <img alt="gitlab" src="https://img.shields.io/badge/-GitLab-orange?style=plastic&logo=gitlab&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Jira-blue?style=plastic&logo=jira&logoColor=white" />
+  <img alt="jira" src="https://img.shields.io/badge/-Jira-blue?style=plastic&logo=jira&logoColor=white" />
 </p>
 
 ___
