@@ -22,10 +22,11 @@ ___
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-green?style=plastic&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-white?style=plastic&logo=express&logoColor=black" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-white?style=plastic&logo=sequelize&logoColor=blue" />
+  <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-white?style=plastic&logo=mongodb" />
 </p>
 <p>Base de datos:</p>
 <p>
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb&logoColor=purple" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql&logoColor=black" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-gray?style=plastic&logo=SQLite&logoColor=white" />
 </p>
