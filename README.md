@@ -7,14 +7,15 @@ ___
 
 <p>Lenguajes:</p>
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript&logoColor=white"" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-white?style=plastic&logo=python" />
 </p>
 <p>Frontend:</p>
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html5&logoColor=white"" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=white"" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/-React Native-45b8d8?style=plastic&logo=react&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html5&logoColor=white"" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=white"" />
 </p>
 <p>Backend:</p>
 <p>
@@ -24,12 +25,14 @@ ___
 </p>
 <p>Base de datos:</p>
 <p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb&logoColor=purple" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-white?style=plastic&logo=mysql&logoColor=black" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-gray?style=plastic&logo=SQLite&logoColor=white" />
 </p>
 <p>Herramientas:</p>
 <p>
-  <img alt="docker" src="https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-gray?style=plastic&logo=amazon&logoColor=orange" />
+  <img alt="docker" src="https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker&logoColor=white" />                                  
   <img alt="git" src="https://img.shields.io/badge/-Git-red?style=plastic&logo=git&logoColor=white" />
   <img alt="jira" src="https://img.shields.io/badge/-Jira-blue?style=plastic&logo=jira&logoColor=white" />
 </p>
