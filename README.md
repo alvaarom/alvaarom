@@ -8,7 +8,7 @@ ___
 <p>Lenguajes:</p>
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-yellow?style=plastic&logo=javascript&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-white?style=plastic&logo=python" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-blue?style=plastic&logo=typescript&logoColor=white" />
 </p>
 <p>Frontend:</p>
 <p>
