@@ -26,6 +26,10 @@ ___
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-white?style=plastic&logo=sequelize&logoColor=blue" />
   <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-white?style=plastic&logo=mongodb" />
 </p>
+<p>Testing:</p>
+<p>
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-purple?style=plastic&logo=jest&logoColor=white" />
+</p>
 <p>Base de datos:</p>
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-white?style=plastic&logo=mongodb" />
