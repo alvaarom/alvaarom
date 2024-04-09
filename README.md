@@ -14,8 +14,9 @@ ___
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=plastic&logo=react&logoColor=white" />
   <img alt="ReactNative" src="https://img.shields.io/badge/-React Native-45b8d8?style=plastic&logo=react&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html5&logoColor=white"" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=white"" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-blue?style=plastic&logo=tailwindcss&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-red?style=plastic&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-blue?style=plastic&logo=css3&logoColor=white" />
 </p>
 <p>Backend:</p>
 <p>
@@ -33,8 +34,11 @@ ___
 <p>Herramientas:</p>
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-gray?style=plastic&logo=amazon&logoColor=orange" />
+  <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-gray?style=plastic&logo=digitalocean&logoColor=orange%22" />
   <img alt="docker" src="https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker&logoColor=white" />                                  
   <img alt="git" src="https://img.shields.io/badge/-Git-red?style=plastic&logo=git&logoColor=white" />
+  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-gray?style=plastic&logo=gitlab&logoColor=orange%22" />
+  <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-blue?style=plastic&logo=bitbucket&logoColor=orange%22" />
   <img alt="jira" src="https://img.shields.io/badge/-Jira-blue?style=plastic&logo=jira&logoColor=white" />
 </p>
 
