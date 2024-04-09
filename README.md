@@ -37,8 +37,6 @@ ___
   <img alt="DigitalOcean" src="https://img.shields.io/badge/-DigitalOcean-gray?style=plastic&logo=digitalocean&logoColor=orange%22" />
   <img alt="docker" src="https://img.shields.io/badge/-Docker-blue?style=plastic&logo=docker&logoColor=white" />                                  
   <img alt="git" src="https://img.shields.io/badge/-Git-red?style=plastic&logo=git&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-gray?style=plastic&logo=gitlab&logoColor=orange%22" />
-  <img alt="BitBucket" src="https://img.shields.io/badge/-BitBucket-blue?style=plastic&logo=bitbucket&logoColor=orange%22" />
   <img alt="jira" src="https://img.shields.io/badge/-Jira-blue?style=plastic&logo=jira&logoColor=white" />
 </p>
 
