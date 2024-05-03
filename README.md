@@ -21,14 +21,9 @@ ___
 <p>Backend:</p>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-green?style=plastic&logo=Node.js&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-red?style=plastic&logo=nestjs&logoColor=orange" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-white?style=plastic&logo=express&logoColor=black" />
   <img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-white?style=plastic&logo=sequelize&logoColor=blue" />
   <img alt="Mongoose" src="https://img.shields.io/badge/-Mongoose-white?style=plastic&logo=mongodb" />
-</p>
-<p>Testing:</p>
-<p>
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-purple?style=plastic&logo=jest&logoColor=white" />
 </p>
 <p>Base de datos:</p>
 <p>
