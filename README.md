@@ -9,8 +9,8 @@ ___
 
 <h3>¿Queres saber mas sobre mi?</h3>
 
-<p align="center">
-  <a href="[https://discord.gg/Jb9EQhhe4h](https://www.linkedin.com/in/alvaromalvestiti/)" target="blank">LinkedId</a>
+<p align="center" gap="2">
+  <a href="https://www.linkedin.com/in/alvaromalvestiti/" target="blank">LinkedIn</a>
   <a href="https://alvaromalvestiti.com" target="blank">Personal WebSite</a>
   <p align="center"><img src="https://komarev.com/ghpvc/?username=alvaarom&color=red" alt="nitij" />
 </p>
